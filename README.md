@@ -1,1 +1,2 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3ivbdr1n5fbepm6n?svg=true)](https://ci.appveyor.com/project/StefanRomanescu/webinterface)
+[![Java CI with Gradle](https://github.com/StefanRomanescu/WebInterface/actions/workflows/gradle.yml/badge.svg)](https://github.com/StefanRomanescu/WebInterface/actions/workflows/gradle.yml)
