@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wu97fgqs4mfg31t4?svg=true)](https://ci.appveyor.com/project/StefanRomanescu/webinterface)
